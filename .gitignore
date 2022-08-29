@@ -1,0 +1,9 @@
+/USB2GPIO-backups/
+/gerber/
+
+
+fp-info-cache
+
+*.zip
+*.pdf
+*.kicad_prl
