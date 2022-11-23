@@ -20,11 +20,13 @@ ATTINY85部分与USB的连接参考自Digispark<br>
 
 2）将开源项目[I2C-Tiny-USB](https://github.com/harbaum/I2C-Tiny-USB)下的main.hex文件复制到firmware\releases目录下<br>
 
-3）打开文件夹中的windows_driver_installer，运行zadig.exe文件安装micronucleus。安装教程见当前文件夹中Readme。<br>
+3）将commandline\builds\i686-mingw32目录下的micronucleus.exe复制到firmware\releases目录下<br>
 
-4）打开文件夹中的firmware，接着打开文件夹releases，在该文件夹下打开cmd，执行指令micronucleus --run main.hex<br>
+4）打开文件夹中的windows_driver_installer，运行zadig.exe文件安装micronucleus。安装教程见当前文件夹中Readme。<br>
 
-5）待Pleass plug in the device ...提示弹出后将设备接入电脑，等待烧录进度完成即可<br>
+5）打开文件夹中的firmware，接着打开文件夹releases，在该文件夹下打开cmd，执行指令micronucleus --run main.hex<br>
+
+6）待Pleass plug in the device ...提示弹出后将设备接入电脑，等待烧录进度完成即可<br>
 
 ### 注：
 
