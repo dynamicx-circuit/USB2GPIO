@@ -1689,7 +1689,7 @@
       (reference "U9") (unit 1) (value "ATtiny85V-10S") (footprint "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm")
     )
     (path "/570d9097-1128-4fa1-99b5-d86d067d304c/3db648e7-d990-4116-9380-d619a1715db0"
-      (reference "U10") (unit 1) (value "PCA9554D") (footprint "EXTRA IC:SOIC127P1032X265-16N")
+      (reference "U10") (unit 1) (value "PCF8574T") (footprint "EXTRA IC:SOIC127P1032X265-16N")
     )
     (path "/762ef442-ad66-493e-924b-bef8a3db8c1d/2c4823a2-abdc-40c8-a6e9-681d5bf9251b"
       (reference "U11") (unit 1) (value "HX9193") (footprint "Package_TO_SOT_SMD:SOT-23-5_HandSoldering")
